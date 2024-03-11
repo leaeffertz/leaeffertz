@@ -1,5 +1,5 @@
-### Hi there 👋
-- 🔭 I’m currently working on improving my skills
+### About me
+
 - 🌱 I’m currently learning Python and Javascript
 - 😄 Pronouns: she/her
 
